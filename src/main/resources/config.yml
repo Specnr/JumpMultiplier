@@ -1,0 +1,7 @@
+GiveItems: true
+Multiplier: 1.1
+Limit: 40
+Period: 1
+lowerBoundTime: .25
+upperBoundTime: .5
+displayMessage: false

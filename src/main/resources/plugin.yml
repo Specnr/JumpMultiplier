@@ -1,0 +1,13 @@
+name: JumpMultiplier
+version: ${project.version}
+main: me.s1lence.jumpmultiplier.JumpMultiplier
+api-version: 1.16
+authors: [ s1lence ]
+description: After a random period of time you jump. Increasing jump height each time.
+commands:
+  jmstart:
+    description: Starts the jump multiplier
+  lost:
+    description: gives back items to the player if they lost them
+  jmstop:
+    description: Resets and stops the jump multiplier
